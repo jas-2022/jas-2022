@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jas-2022
 - 👀 I’m interested in learning any tec stuff
 - 🌱 I’m currently learning about testing API
-- 💞️ I’m looking to collaborate with anyone interested in beginners
+- 💞️ I’m looking to collaborate with anyone interested in supporting beginner steps in code
 - 📫 How to reach me ... 
 
 <!---
